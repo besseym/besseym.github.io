@@ -18749,7 +18749,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	            }
 	            return {
 	                key: index_1.convertValueToAttribute(this.key),
-	                itemArray: itemArray,
+	                itemArray: itemArray
 	            };
 	        },
 	        enumerable: true,
